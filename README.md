@@ -21,7 +21,7 @@
 * **Voracious**: Ingest using **Opentelemetry, Loki, Prometheus, Tempo, Influx, Datadog, Elastic** _+ more_
 * **Versatile**: Explore data with qryn's **built-in Explorer** and CLI or native **Grafana** datasource compatibility
 * **Secure**: Retain total control of data, using **ClickHouse**, **DuckDB** or **InfluxDB** IOx with **S3** object storage
-* **Independent**: Opensource, Community powered, Anti lock-in alternative to Vendor controlled stacks
+* **Independent**: Open source, Community powered, Anti lock-in alternative to Vendor controlled stacks
 
 <!-- ![lgtm_vs_qryn](https://github.com/metrico/qryn/assets/1423657/2e9071ba-c578-49fc-be1d-d91944a5891e) -->
 
